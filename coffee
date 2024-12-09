@@ -5,3 +5,4 @@ extract(coffee)
 
 heat(milk)
 pour(all)
+pour(out)
